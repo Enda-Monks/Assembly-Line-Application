@@ -1,8 +1,8 @@
 # Assembly Line
-Auther: Kathleen Monks
-Purpose: Final Project OOP345, reflection
-Date of completion: 2021-12-06
----------------------------------
+# Auther: Kathleen Monks
+# Purpose: Final Project OOP345, REFLECTION
+# Date of completion: 2021-12-06
+
 
 This Final Project provided hands on experience in working with various types of containers. Mainly, vectors, and deques. 
 
