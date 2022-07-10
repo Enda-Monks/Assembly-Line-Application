@@ -1,5 +1,5 @@
 # Assembly Line
-# Auther: Kathleen Monks
+# Auther: Enda Monks
 # Purpose: Final Project OOP345, REFLECTION
 # Date of completion: 2021-12-06
 
